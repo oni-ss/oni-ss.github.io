@@ -1,0 +1,14 @@
+h1 {
+    background-color:black;
+    color: #b3baff;
+}
+
+h6 {
+    color: rgb(99, 136, 122);
+}
+
+p {
+    font-weight:bold;
+    font-family:'Arial Rounded MT Bold';
+    text-transform:uppercase;
+}
